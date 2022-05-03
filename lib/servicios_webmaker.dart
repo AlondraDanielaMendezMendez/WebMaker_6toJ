@@ -21,7 +21,7 @@ class _PaginaInicialState extends State<PaginaInicial> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Servicios de WebMaker"),
+          title: Text("Servicios de WebMaker v.2"),
           backgroundColor: Colors.teal[900],
         ),
         body: GridView.custom(
